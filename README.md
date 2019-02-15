@@ -14,6 +14,6 @@ there save the html, css and any image for the background<br/>
 Next go back to the sketch and before uploading your sketch to esp32, go to tools dropdown and select esp32 sketch data upload option.<br/>
 upload the sketch on esp32 after that
 
-[![Github All Releases](https://img.shields.io/github/downloads/madhwanikaran/esp32ServerHtml/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/:madhwanikaran/:esp32ServerHtml/total.svg)]()
 
 
